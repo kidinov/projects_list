@@ -8,8 +8,8 @@
 * [Just Weight](https://play.google.com/store/apps/details?id=org.kidinov.justweight) Fun project to track your weight. [Open source](https://github.com/kidinov/Just-Weight)
 * [Just Silence](https://play.google.com/store/apps/details?id=org.kidinov.justsleep) Fun project to schedule time when the device should be silent
 * [Iris](https://forum.xda-developers.com/android/apps-games/beta-iris-walk-using-app-t3086259) App to show an overlay with camera screen upon system ui. Pick of the week on xda developers
-* [YoCutie](https://play.google.com/store/apps/details?id=de.appfiction.yocutiegoogle) Dating app. *2 000 000+* downloads at the moment
-* [AWD](https://play.google.com/store/apps/details?id=org.kidinov.awd) IDE for PHP, JS, CSS, HTML. My own project. *400 000+* downloads at the moment
+* [YoCutie](https://play.google.com/store/apps/details?id=de.appfiction.yocutiegoogle) Dating app. *5 000 000+* downloads at the moment
+* [AWD](https://play.google.com/store/apps/details?id=org.kidinov.awd) IDE for PHP, JS, CSS, HTML. My own project. *450 000+* downloads at the moment
 * [Unix Admin](https://play.google.com/store/apps/details?id=org.kidinov.unixadmin) App for managing remote Unix hosts via FTP SFTP SSH FTPS protocols. 
 * [Tweet Shot 2](https://play.google.com/store/apps/details?id=org.mediathreat.tweetcinema.app) App shows twitter trends
 * [Flee](https://play.google.com/store/apps/details?id=com.gravybaby.flee) Simple cocos2d game
