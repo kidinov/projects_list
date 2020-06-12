@@ -1,4 +1,4 @@
-# Android apps I was involved in
+# Android apps I was working on
 
 * [Hey Kids](https://play.google.com/store/apps/details?id=ro.heykids.povesti.desene.app) Small app for kids. Both back-end and front-end
 * [ING Banking App](https://play.google.com/store/apps/details?id=com.ing.mobile) Big banking app. Multi-module.
