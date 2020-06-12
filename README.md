@@ -1,5 +1,7 @@
 # Android apps I was involved in
 
+* [Hey Kids](https://play.google.com/store/apps/details?id=ro.heykids.povesti.desene.app) Small app for kids. Both back-end and front-end
+* [ING Banking App](https://play.google.com/store/apps/details?id=com.ing.mobile) Big banking app. Multi-module.
 * [Payconiq](https://play.google.com/store/apps/details?id=com.payconiq.customers) App for payments. Complicated from a security point of view
 * [Scrum Poker](https://play.google.com/store/apps/details?id=kidinov.org.scrumpoker) Fun project. Simple scrum poker. [Open source](https://github.com/kidinov/ScrumPoker)
 * [Qardio](https://play.google.com/store/apps/details?id=com.getqardio.android) Health tracking app with a lot of communication via BLE with external devices
