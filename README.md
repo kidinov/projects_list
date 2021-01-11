@@ -1,5 +1,6 @@
 # Android apps I was working on
 
+* [Avito](https://play.google.com/store/apps/details?id=com.avito.android). Huge multi-module project in the biggest classified advertisements company in Russia and second-biggest classifieds in the world.
 * [Hey Kids](https://play.google.com/store/apps/details?id=ro.heykids.povesti.desene.app) Small app for kids. Both back-end and front-end
 * [ING Banking App](https://play.google.com/store/apps/details?id=com.ing.mobile) Big banking app. Multi-module.
 * [Payconiq](https://play.google.com/store/apps/details?id=com.payconiq.customers) App for payments. Complicated from a security point of view
